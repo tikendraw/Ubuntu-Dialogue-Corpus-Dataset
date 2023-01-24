@@ -22,7 +22,7 @@ So after some time I stopped the digging through this data. I will find another 
 
 Seems Like Entry with some `dialogueID` with no `To` value are questions asked by `from` guy and in the same `dialogueID` and Entry with `to` values are reply from `from` guy
 
-![Screenshot from 2023-01-24 16-08-13.png](attachment:[https://github.com/tikendraw/Ubuntu-Dialogue-Corpus-Dataset/blob/8c8a648491fe0a17dbfa1a62e7ffc5e3ad4fc0d0/Screenshot%20from%202023-01-24%2016-08-13.png](https://raw.githubusercontent.com/tikendraw/Ubuntu-Dialogue-Corpus-Dataset/main/Screenshot%20from%202023-01-24%2016-08-13.png))
+![Screenshot from 2023-01-24 16-08-13.png](https://raw.githubusercontent.com/tikendraw/Ubuntu-Dialogue-Corpus-Dataset/main/Screenshot%20from%202023-01-24%2016-08-13.png)
 
 * Entries with same `dialogueID` are one  single post
 * Entries with no `to` values are Questions
